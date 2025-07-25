@@ -6,9 +6,8 @@ A web-based real-time location tracking application that allows users to share t
 
 - 🔴 Start/Stop live location sharing
 - 🧭 Real-time marker updates with custom icons
-- 📍 Display user name above their marker
+- 📍 Display user above their marker
 - 🗺️ Responsive map using Leaflet.js
-- 📱 Mobile-friendly and clean UI
 
 ## 📸 Preview
 
@@ -20,5 +19,28 @@ A web-based real-time location tracking application that allows users to share t
 - **Libraries:** [Leaflet.js](https://leafletjs.com/), Geolocation API
 - **Icons:** Custom marker icons
 - **Hosting:** GitHub Pages / Localhost
+
+## 💡 Future Improvements
+
+- 🧑‍🤝‍🧑 **Multi-user Support**  
+  Enable tracking of multiple users simultaneously by assigning unique IDs or usernames.
+
+- 🗃️ **Backend Integration**  
+  Store and fetch real-time locations using a backend service (e.g., Firebase, Node.js + MongoDB).
+
+- 🔐 **User Authentication**  
+  Implement login/signup functionality for private and secure location sharing.
+
+- 🛑 **Auto Stop on Inactivity**  
+  Automatically stop location sharing after a certain period of inactivity or movement.
+
+- 📊 **Location History**  
+  Allow users to view the route or history of their tracked movements.
+
+- 🌐 **Live Demo Deployment**  
+  Host the application online using GitHub Pages or platforms like Vercel/Netlify.
+
+- 📱 **Progressive Web App (PWA)**  
+  Make it installable on mobile
 
 
